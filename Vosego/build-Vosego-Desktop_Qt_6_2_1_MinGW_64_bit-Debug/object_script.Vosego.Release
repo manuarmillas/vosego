@@ -1,0 +1,10 @@
+release/bargrapdiaform.o
+release/graficadiaform.o
+release/graficasresultadosform.o
+release/main.o
+release/mainwindow.o
+release/sqlite3.o
+release/moc_bargrapdiaform.o
+release/moc_graficadiaform.o
+release/moc_graficasresultadosform.o
+release/moc_mainwindow.o

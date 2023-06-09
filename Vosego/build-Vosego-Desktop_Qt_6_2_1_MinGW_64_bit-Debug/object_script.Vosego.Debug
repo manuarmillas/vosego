@@ -1,0 +1,10 @@
+debug/bargrapdiaform.o
+debug/graficadiaform.o
+debug/graficasresultadosform.o
+debug/main.o
+debug/mainwindow.o
+debug/sqlite3.o
+debug/moc_bargrapdiaform.o
+debug/moc_graficadiaform.o
+debug/moc_graficasresultadosform.o
+debug/moc_mainwindow.o
